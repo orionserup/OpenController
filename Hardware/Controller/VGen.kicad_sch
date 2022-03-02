@@ -1,0 +1,23 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 4f860684-21d7-4c43-9068-212b39133292)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "VIN" (shape input) (at 209.55 92.71 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid ceef9272-317f-44d8-8a1e-9aed0c5194a9)
+  )
+  (hierarchical_label "GND" (shape input) (at 209.55 86.36 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid e47cc64c-1d7a-40bf-9238-ae3b1e5a8ddf)
+  )
+  (hierarchical_label "12V0" (shape input) (at 208.28 73.66 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid f30d86cf-0cda-4b3a-96cf-2dc82f77319a)
+  )
+)
